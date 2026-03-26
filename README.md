@@ -1,3 +1,3 @@
 <h1>Calculator</h1> 
 
-<p>Basic calculator created using Javascript</p>
+<p>A vanilla JavaScript calculator built with DOM manipulation.</p>
